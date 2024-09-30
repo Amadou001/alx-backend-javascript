@@ -26,6 +26,8 @@
 sudo bash nodesource_setup.sh
 sudo apt install nodejs -y```
 
+<br>
+
 ```$ nodejs -v
 v12.11.1
 $ npm -v
